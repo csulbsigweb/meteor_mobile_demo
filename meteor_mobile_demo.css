@@ -1,0 +1,19 @@
+/* CSS declarations go here */
+.buzz {
+  background: red;
+}
+
+.buzz:after {
+  content: "BUZZ!";
+  font-size: 48px;
+}
+
+body {
+  background: #fff;
+}
+
+.center {
+  width: 100%;
+  margin-left: 50%;
+  margin-right: 50%;
+}
